@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "152785145511",
+    "firebase_url": "https://megastory-442a9.firebaseio.com",
+    "project_id": "megastory-442a9",
+    "storage_bucket": "megastory-442a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152785145511:android:c18a627c21f5634d7a9582",
+        "android_client_info": {
+          "package_name": "com.example.megaStory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152785145511-qbapgmjqerl3envhd7q8etpn2lmut5s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.megaStory",
+            "certificate_hash": "679f7d4c7633433d7c40de03252e2cf4ba8450f5"
+          }
+        },
+        {
+          "client_id": "152785145511-stj5acc9dtlrn5bf71i43d07jqusr4p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXWnexRXROl8pCfwIp8pIonM8pS87qVeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152785145511-stj5acc9dtlrn5bf71i43d07jqusr4p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
